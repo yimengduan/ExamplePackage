@@ -1,0 +1,11 @@
+Package: Packageexample
+Type: Package
+Title: The Diamond Plot Marker
+Version: 0.1.0
+Author: Yimeng Duan
+Maintainer: Yimeng Duan <yid4003@med.cornell.edu>
+Description: Makes a diamond plot.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
